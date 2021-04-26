@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\bin\Debug\netcoreapp3.1\AlternatingTrees.exe
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\bin\Debug\netcoreapp3.1\AlternatingTrees.deps.json
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\bin\Debug\netcoreapp3.1\AlternatingTrees.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\bin\Debug\netcoreapp3.1\AlternatingTrees.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\bin\Debug\netcoreapp3.1\AlternatingTrees.dll
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\bin\Debug\netcoreapp3.1\AlternatingTrees.pdb
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\obj\Debug\netcoreapp3.1\AlternatingTrees.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\obj\Debug\netcoreapp3.1\AlternatingTrees.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\obj\Debug\netcoreapp3.1\AlternatingTrees.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\obj\Debug\netcoreapp3.1\AlternatingTrees.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\obj\Debug\netcoreapp3.1\AlternatingTrees.dll
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\obj\Debug\netcoreapp3.1\AlternatingTrees.pdb
+C:\Users\v-ivyajanga\source\repos\AlternatingTrees\AlternatingTrees\obj\Debug\netcoreapp3.1\AlternatingTrees.genruntimeconfig.cache

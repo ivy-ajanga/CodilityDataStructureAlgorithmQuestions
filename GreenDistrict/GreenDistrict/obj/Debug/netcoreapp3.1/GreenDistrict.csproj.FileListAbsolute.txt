@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\bin\Debug\netcoreapp3.1\GreenDistrict.exe
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\bin\Debug\netcoreapp3.1\GreenDistrict.deps.json
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\bin\Debug\netcoreapp3.1\GreenDistrict.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\bin\Debug\netcoreapp3.1\GreenDistrict.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\bin\Debug\netcoreapp3.1\GreenDistrict.dll
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\bin\Debug\netcoreapp3.1\GreenDistrict.pdb
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\obj\Debug\netcoreapp3.1\GreenDistrict.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\obj\Debug\netcoreapp3.1\GreenDistrict.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\obj\Debug\netcoreapp3.1\GreenDistrict.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\obj\Debug\netcoreapp3.1\GreenDistrict.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\obj\Debug\netcoreapp3.1\GreenDistrict.dll
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\obj\Debug\netcoreapp3.1\GreenDistrict.pdb
+C:\Users\v-ivyajanga\source\repos\GreenDistrict\GreenDistrict\obj\Debug\netcoreapp3.1\GreenDistrict.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeakFlags", "PeakFlags\PeakFlags.csproj", "{AD1AA689-7DF9-42AA-ACA9-2D03195A587F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD1AA689-7DF9-42AA-ACA9-2D03195A587F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD1AA689-7DF9-42AA-ACA9-2D03195A587F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD1AA689-7DF9-42AA-ACA9-2D03195A587F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD1AA689-7DF9-42AA-ACA9-2D03195A587F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD5E1081-0603-4350-80C1-D269FF29F196}
+	EndGlobalSection
+EndGlobal

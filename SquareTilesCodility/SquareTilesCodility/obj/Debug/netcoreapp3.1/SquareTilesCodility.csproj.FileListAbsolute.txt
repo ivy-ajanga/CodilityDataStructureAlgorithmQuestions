@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\bin\Debug\netcoreapp3.1\SquareTilesCodility.exe
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\bin\Debug\netcoreapp3.1\SquareTilesCodility.deps.json
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\bin\Debug\netcoreapp3.1\SquareTilesCodility.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\bin\Debug\netcoreapp3.1\SquareTilesCodility.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\bin\Debug\netcoreapp3.1\SquareTilesCodility.dll
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\bin\Debug\netcoreapp3.1\SquareTilesCodility.pdb
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\obj\Debug\netcoreapp3.1\SquareTilesCodility.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\obj\Debug\netcoreapp3.1\SquareTilesCodility.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\obj\Debug\netcoreapp3.1\SquareTilesCodility.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\obj\Debug\netcoreapp3.1\SquareTilesCodility.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\obj\Debug\netcoreapp3.1\SquareTilesCodility.dll
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\obj\Debug\netcoreapp3.1\SquareTilesCodility.pdb
+C:\Users\v-ivyajanga\source\repos\SquareTilesCodility\SquareTilesCodility\obj\Debug\netcoreapp3.1\SquareTilesCodility.genruntimeconfig.cache

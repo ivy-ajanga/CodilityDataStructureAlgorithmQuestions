@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\bin\Debug\netcoreapp3.1\MaximalNetworkRank.exe
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\bin\Debug\netcoreapp3.1\MaximalNetworkRank.deps.json
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\bin\Debug\netcoreapp3.1\MaximalNetworkRank.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\bin\Debug\netcoreapp3.1\MaximalNetworkRank.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\bin\Debug\netcoreapp3.1\MaximalNetworkRank.dll
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\bin\Debug\netcoreapp3.1\MaximalNetworkRank.pdb
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\obj\Debug\netcoreapp3.1\MaximalNetworkRank.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\obj\Debug\netcoreapp3.1\MaximalNetworkRank.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\obj\Debug\netcoreapp3.1\MaximalNetworkRank.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\obj\Debug\netcoreapp3.1\MaximalNetworkRank.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\obj\Debug\netcoreapp3.1\MaximalNetworkRank.dll
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\obj\Debug\netcoreapp3.1\MaximalNetworkRank.pdb
+C:\Users\v-ivyajanga\source\repos\MaximalNetworkRank\MaximalNetworkRank\obj\Debug\netcoreapp3.1\MaximalNetworkRank.genruntimeconfig.cache

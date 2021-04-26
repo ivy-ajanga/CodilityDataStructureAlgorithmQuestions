@@ -1,0 +1,12 @@
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\bin\Debug\netcoreapp3.1\BinaryPeriod.exe
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\bin\Debug\netcoreapp3.1\BinaryPeriod.deps.json
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\bin\Debug\netcoreapp3.1\BinaryPeriod.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\bin\Debug\netcoreapp3.1\BinaryPeriod.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\bin\Debug\netcoreapp3.1\BinaryPeriod.dll
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\bin\Debug\netcoreapp3.1\BinaryPeriod.pdb
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\obj\Debug\netcoreapp3.1\BinaryPeriod.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\obj\Debug\netcoreapp3.1\BinaryPeriod.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\obj\Debug\netcoreapp3.1\BinaryPeriod.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\obj\Debug\netcoreapp3.1\BinaryPeriod.dll
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\obj\Debug\netcoreapp3.1\BinaryPeriod.pdb
+C:\Users\v-ivyajanga\source\repos\BinaryPeriod\BinaryPeriod\obj\Debug\netcoreapp3.1\BinaryPeriod.genruntimeconfig.cache

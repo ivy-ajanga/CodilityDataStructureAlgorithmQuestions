@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\bin\Debug\netcoreapp3.1\WaterTankString.exe
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\bin\Debug\netcoreapp3.1\WaterTankString.deps.json
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\bin\Debug\netcoreapp3.1\WaterTankString.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\bin\Debug\netcoreapp3.1\WaterTankString.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\bin\Debug\netcoreapp3.1\WaterTankString.dll
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\bin\Debug\netcoreapp3.1\WaterTankString.pdb
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\obj\Debug\netcoreapp3.1\WaterTankString.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\obj\Debug\netcoreapp3.1\WaterTankString.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\obj\Debug\netcoreapp3.1\WaterTankString.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\obj\Debug\netcoreapp3.1\WaterTankString.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\obj\Debug\netcoreapp3.1\WaterTankString.dll
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\obj\Debug\netcoreapp3.1\WaterTankString.pdb
+C:\Users\v-ivyajanga\source\repos\WaterTankString\WaterTankString\obj\Debug\netcoreapp3.1\WaterTankString.genruntimeconfig.cache

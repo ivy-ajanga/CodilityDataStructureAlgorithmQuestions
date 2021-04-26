@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\bin\Debug\netcoreapp3.1\CountTrianglesCodility.exe
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\bin\Debug\netcoreapp3.1\CountTrianglesCodility.deps.json
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\bin\Debug\netcoreapp3.1\CountTrianglesCodility.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\bin\Debug\netcoreapp3.1\CountTrianglesCodility.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\bin\Debug\netcoreapp3.1\CountTrianglesCodility.dll
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\bin\Debug\netcoreapp3.1\CountTrianglesCodility.pdb
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\obj\Debug\netcoreapp3.1\CountTrianglesCodility.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\obj\Debug\netcoreapp3.1\CountTrianglesCodility.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\obj\Debug\netcoreapp3.1\CountTrianglesCodility.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\obj\Debug\netcoreapp3.1\CountTrianglesCodility.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\obj\Debug\netcoreapp3.1\CountTrianglesCodility.dll
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\obj\Debug\netcoreapp3.1\CountTrianglesCodility.pdb
+C:\Users\v-ivyajanga\source\repos\CountTrianglesCodility\CountTrianglesCodility\obj\Debug\netcoreapp3.1\CountTrianglesCodility.genruntimeconfig.cache

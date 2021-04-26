@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\bin\Debug\netcoreapp3.1\PopulatingNextRightPointers.exe
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\bin\Debug\netcoreapp3.1\PopulatingNextRightPointers.deps.json
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\bin\Debug\netcoreapp3.1\PopulatingNextRightPointers.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\bin\Debug\netcoreapp3.1\PopulatingNextRightPointers.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\bin\Debug\netcoreapp3.1\PopulatingNextRightPointers.dll
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\bin\Debug\netcoreapp3.1\PopulatingNextRightPointers.pdb
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\obj\Debug\netcoreapp3.1\PopulatingNextRightPointers.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\obj\Debug\netcoreapp3.1\PopulatingNextRightPointers.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\obj\Debug\netcoreapp3.1\PopulatingNextRightPointers.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\obj\Debug\netcoreapp3.1\PopulatingNextRightPointers.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\obj\Debug\netcoreapp3.1\PopulatingNextRightPointers.dll
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\obj\Debug\netcoreapp3.1\PopulatingNextRightPointers.pdb
+C:\Users\v-ivyajanga\source\repos\PopulatingNextRightPointers\PopulatingNextRightPointers\obj\Debug\netcoreapp3.1\PopulatingNextRightPointers.genruntimeconfig.cache

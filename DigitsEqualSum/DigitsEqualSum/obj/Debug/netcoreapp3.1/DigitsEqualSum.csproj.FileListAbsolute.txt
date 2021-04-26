@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\bin\Debug\netcoreapp3.1\DigitsEqualSum.exe
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\bin\Debug\netcoreapp3.1\DigitsEqualSum.deps.json
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\bin\Debug\netcoreapp3.1\DigitsEqualSum.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\bin\Debug\netcoreapp3.1\DigitsEqualSum.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\bin\Debug\netcoreapp3.1\DigitsEqualSum.dll
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\bin\Debug\netcoreapp3.1\DigitsEqualSum.pdb
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\obj\Debug\netcoreapp3.1\DigitsEqualSum.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\obj\Debug\netcoreapp3.1\DigitsEqualSum.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\obj\Debug\netcoreapp3.1\DigitsEqualSum.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\obj\Debug\netcoreapp3.1\DigitsEqualSum.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\obj\Debug\netcoreapp3.1\DigitsEqualSum.dll
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\obj\Debug\netcoreapp3.1\DigitsEqualSum.pdb
+C:\Users\v-ivyajanga\source\repos\DigitsEqualSum\DigitsEqualSum\obj\Debug\netcoreapp3.1\DigitsEqualSum.genruntimeconfig.cache

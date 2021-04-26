@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\bin\Debug\netcoreapp3.1\MagnitudePoleCodility.exe
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\bin\Debug\netcoreapp3.1\MagnitudePoleCodility.deps.json
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\bin\Debug\netcoreapp3.1\MagnitudePoleCodility.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\bin\Debug\netcoreapp3.1\MagnitudePoleCodility.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\bin\Debug\netcoreapp3.1\MagnitudePoleCodility.dll
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\bin\Debug\netcoreapp3.1\MagnitudePoleCodility.pdb
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\obj\Debug\netcoreapp3.1\MagnitudePoleCodility.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\obj\Debug\netcoreapp3.1\MagnitudePoleCodility.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\obj\Debug\netcoreapp3.1\MagnitudePoleCodility.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\obj\Debug\netcoreapp3.1\MagnitudePoleCodility.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\obj\Debug\netcoreapp3.1\MagnitudePoleCodility.dll
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\obj\Debug\netcoreapp3.1\MagnitudePoleCodility.pdb
+C:\Users\v-ivyajanga\source\repos\MagnitudePoleCodility\MagnitudePoleCodility\obj\Debug\netcoreapp3.1\MagnitudePoleCodility.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\bin\Debug\netcoreapp3.1\MagnitudePole.exe
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\bin\Debug\netcoreapp3.1\MagnitudePole.deps.json
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\bin\Debug\netcoreapp3.1\MagnitudePole.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\bin\Debug\netcoreapp3.1\MagnitudePole.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\bin\Debug\netcoreapp3.1\MagnitudePole.dll
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\bin\Debug\netcoreapp3.1\MagnitudePole.pdb
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\obj\Debug\netcoreapp3.1\MagnitudePole.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\obj\Debug\netcoreapp3.1\MagnitudePole.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\obj\Debug\netcoreapp3.1\MagnitudePole.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\obj\Debug\netcoreapp3.1\MagnitudePole.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\obj\Debug\netcoreapp3.1\MagnitudePole.dll
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\obj\Debug\netcoreapp3.1\MagnitudePole.pdb
+C:\Users\v-ivyajanga\source\repos\MagnitudePole\MagnitudePole\obj\Debug\netcoreapp3.1\MagnitudePole.genruntimeconfig.cache

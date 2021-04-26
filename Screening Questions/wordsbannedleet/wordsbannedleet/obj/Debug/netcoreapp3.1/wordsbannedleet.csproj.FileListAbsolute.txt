@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\bin\Debug\netcoreapp3.1\wordsbannedleet.exe
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\bin\Debug\netcoreapp3.1\wordsbannedleet.deps.json
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\bin\Debug\netcoreapp3.1\wordsbannedleet.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\bin\Debug\netcoreapp3.1\wordsbannedleet.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\bin\Debug\netcoreapp3.1\wordsbannedleet.dll
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\bin\Debug\netcoreapp3.1\wordsbannedleet.pdb
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\obj\Debug\netcoreapp3.1\wordsbannedleet.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\obj\Debug\netcoreapp3.1\wordsbannedleet.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\obj\Debug\netcoreapp3.1\wordsbannedleet.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\obj\Debug\netcoreapp3.1\wordsbannedleet.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\obj\Debug\netcoreapp3.1\wordsbannedleet.dll
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\obj\Debug\netcoreapp3.1\wordsbannedleet.pdb
+C:\Users\v-ivyajanga\source\repos\Screening Questions\wordsbannedleet\wordsbannedleet\obj\Debug\netcoreapp3.1\wordsbannedleet.genruntimeconfig.cache

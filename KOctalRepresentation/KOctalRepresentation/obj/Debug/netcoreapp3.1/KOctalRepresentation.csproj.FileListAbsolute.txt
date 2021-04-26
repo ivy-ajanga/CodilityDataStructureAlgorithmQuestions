@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\obj\Debug\netcoreapp3.1\KOctalRepresentation.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\obj\Debug\netcoreapp3.1\KOctalRepresentation.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\obj\Debug\netcoreapp3.1\KOctalRepresentation.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\obj\Debug\netcoreapp3.1\KOctalRepresentation.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\bin\Debug\netcoreapp3.1\KOctalRepresentation.exe
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\bin\Debug\netcoreapp3.1\KOctalRepresentation.deps.json
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\bin\Debug\netcoreapp3.1\KOctalRepresentation.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\bin\Debug\netcoreapp3.1\KOctalRepresentation.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\bin\Debug\netcoreapp3.1\KOctalRepresentation.dll
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\bin\Debug\netcoreapp3.1\KOctalRepresentation.pdb
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\obj\Debug\netcoreapp3.1\KOctalRepresentation.dll
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\obj\Debug\netcoreapp3.1\KOctalRepresentation.pdb
+C:\Users\v-ivyajanga\source\repos\KOctalRepresentation\KOctalRepresentation\obj\Debug\netcoreapp3.1\KOctalRepresentation.genruntimeconfig.cache

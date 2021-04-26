@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\bin\Debug\netcoreapp3.1\Encodingnumbers.exe
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\bin\Debug\netcoreapp3.1\Encodingnumbers.deps.json
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\bin\Debug\netcoreapp3.1\Encodingnumbers.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\bin\Debug\netcoreapp3.1\Encodingnumbers.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\bin\Debug\netcoreapp3.1\Encodingnumbers.dll
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\bin\Debug\netcoreapp3.1\Encodingnumbers.pdb
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\obj\Debug\netcoreapp3.1\Encodingnumbers.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\obj\Debug\netcoreapp3.1\Encodingnumbers.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\obj\Debug\netcoreapp3.1\Encodingnumbers.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\obj\Debug\netcoreapp3.1\Encodingnumbers.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\obj\Debug\netcoreapp3.1\Encodingnumbers.dll
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\obj\Debug\netcoreapp3.1\Encodingnumbers.pdb
+C:\Users\v-ivyajanga\source\repos\Encodingnumbers\Encodingnumbers\obj\Debug\netcoreapp3.1\Encodingnumbers.genruntimeconfig.cache

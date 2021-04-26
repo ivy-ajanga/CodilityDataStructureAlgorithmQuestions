@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\bin\Debug\netcoreapp3.1\AssymetricIndex.exe
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\bin\Debug\netcoreapp3.1\AssymetricIndex.deps.json
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\bin\Debug\netcoreapp3.1\AssymetricIndex.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\bin\Debug\netcoreapp3.1\AssymetricIndex.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\bin\Debug\netcoreapp3.1\AssymetricIndex.dll
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\bin\Debug\netcoreapp3.1\AssymetricIndex.pdb
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\obj\Debug\netcoreapp3.1\AssymetricIndex.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\obj\Debug\netcoreapp3.1\AssymetricIndex.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\obj\Debug\netcoreapp3.1\AssymetricIndex.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\obj\Debug\netcoreapp3.1\AssymetricIndex.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\obj\Debug\netcoreapp3.1\AssymetricIndex.dll
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\obj\Debug\netcoreapp3.1\AssymetricIndex.pdb
+C:\Users\v-ivyajanga\source\repos\AssymetricIndex\AssymetricIndex\obj\Debug\netcoreapp3.1\AssymetricIndex.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\bin\Debug\netcoreapp3.1\RunLengthEncoding.exe
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\bin\Debug\netcoreapp3.1\RunLengthEncoding.deps.json
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\bin\Debug\netcoreapp3.1\RunLengthEncoding.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\bin\Debug\netcoreapp3.1\RunLengthEncoding.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\bin\Debug\netcoreapp3.1\RunLengthEncoding.dll
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\bin\Debug\netcoreapp3.1\RunLengthEncoding.pdb
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\obj\Debug\netcoreapp3.1\RunLengthEncoding.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\obj\Debug\netcoreapp3.1\RunLengthEncoding.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\obj\Debug\netcoreapp3.1\RunLengthEncoding.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\obj\Debug\netcoreapp3.1\RunLengthEncoding.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\obj\Debug\netcoreapp3.1\RunLengthEncoding.dll
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\obj\Debug\netcoreapp3.1\RunLengthEncoding.pdb
+C:\Users\v-ivyajanga\source\repos\RunLengthEncoding\RunLengthEncoding\obj\Debug\netcoreapp3.1\RunLengthEncoding.genruntimeconfig.cache

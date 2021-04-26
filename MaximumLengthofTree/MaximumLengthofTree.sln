@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaximumLengthofTree", "MaximumLengthofTree\MaximumLengthofTree.csproj", "{2FEDE34B-AB4C-4BA5-9619-B96C14E4AAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FEDE34B-AB4C-4BA5-9619-B96C14E4AAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FEDE34B-AB4C-4BA5-9619-B96C14E4AAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FEDE34B-AB4C-4BA5-9619-B96C14E4AAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FEDE34B-AB4C-4BA5-9619-B96C14E4AAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {636C7DA2-A138-4973-97E2-820BFC2026C7}
+	EndGlobalSection
+EndGlobal

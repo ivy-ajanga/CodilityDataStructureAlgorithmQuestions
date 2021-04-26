@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\bin\Debug\netcoreapp3.1\RotateRoundClocks.exe
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\bin\Debug\netcoreapp3.1\RotateRoundClocks.deps.json
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\bin\Debug\netcoreapp3.1\RotateRoundClocks.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\bin\Debug\netcoreapp3.1\RotateRoundClocks.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\bin\Debug\netcoreapp3.1\RotateRoundClocks.dll
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\bin\Debug\netcoreapp3.1\RotateRoundClocks.pdb
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\obj\Debug\netcoreapp3.1\RotateRoundClocks.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\obj\Debug\netcoreapp3.1\RotateRoundClocks.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\obj\Debug\netcoreapp3.1\RotateRoundClocks.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\obj\Debug\netcoreapp3.1\RotateRoundClocks.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\obj\Debug\netcoreapp3.1\RotateRoundClocks.dll
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\obj\Debug\netcoreapp3.1\RotateRoundClocks.pdb
+C:\Users\v-ivyajanga\source\repos\RotateRoundClocks\RotateRoundClocks\obj\Debug\netcoreapp3.1\RotateRoundClocks.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\obj\Debug\netcoreapp3.1\RightCyclicShift.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\obj\Debug\netcoreapp3.1\RightCyclicShift.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\obj\Debug\netcoreapp3.1\RightCyclicShift.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\obj\Debug\netcoreapp3.1\RightCyclicShift.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\bin\Debug\netcoreapp3.1\RightCyclicShift.exe
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\bin\Debug\netcoreapp3.1\RightCyclicShift.deps.json
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\bin\Debug\netcoreapp3.1\RightCyclicShift.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\bin\Debug\netcoreapp3.1\RightCyclicShift.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\bin\Debug\netcoreapp3.1\RightCyclicShift.dll
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\bin\Debug\netcoreapp3.1\RightCyclicShift.pdb
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\obj\Debug\netcoreapp3.1\RightCyclicShift.dll
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\obj\Debug\netcoreapp3.1\RightCyclicShift.pdb
+C:\Users\v-ivyajanga\source\repos\RightCyclicShift\RightCyclicShift\obj\Debug\netcoreapp3.1\RightCyclicShift.genruntimeconfig.cache

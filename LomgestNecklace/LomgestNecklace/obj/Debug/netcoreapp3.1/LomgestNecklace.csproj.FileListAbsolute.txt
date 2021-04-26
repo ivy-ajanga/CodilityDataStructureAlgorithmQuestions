@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\bin\Debug\netcoreapp3.1\LomgestNecklace.exe
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\bin\Debug\netcoreapp3.1\LomgestNecklace.deps.json
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\bin\Debug\netcoreapp3.1\LomgestNecklace.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\bin\Debug\netcoreapp3.1\LomgestNecklace.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\bin\Debug\netcoreapp3.1\LomgestNecklace.dll
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\bin\Debug\netcoreapp3.1\LomgestNecklace.pdb
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\obj\Debug\netcoreapp3.1\LomgestNecklace.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\obj\Debug\netcoreapp3.1\LomgestNecklace.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\obj\Debug\netcoreapp3.1\LomgestNecklace.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\obj\Debug\netcoreapp3.1\LomgestNecklace.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\obj\Debug\netcoreapp3.1\LomgestNecklace.dll
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\obj\Debug\netcoreapp3.1\LomgestNecklace.pdb
+C:\Users\v-ivyajanga\source\repos\LomgestNecklace\LomgestNecklace\obj\Debug\netcoreapp3.1\LomgestNecklace.genruntimeconfig.cache

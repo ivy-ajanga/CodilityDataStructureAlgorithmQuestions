@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\bin\Debug\netcoreapp3.1\Balanced.exe
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\bin\Debug\netcoreapp3.1\Balanced.deps.json
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\bin\Debug\netcoreapp3.1\Balanced.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\bin\Debug\netcoreapp3.1\Balanced.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\bin\Debug\netcoreapp3.1\Balanced.dll
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\bin\Debug\netcoreapp3.1\Balanced.pdb
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\obj\Debug\netcoreapp3.1\Balanced.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\obj\Debug\netcoreapp3.1\Balanced.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\obj\Debug\netcoreapp3.1\Balanced.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\obj\Debug\netcoreapp3.1\Balanced.dll
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\obj\Debug\netcoreapp3.1\Balanced.pdb
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\obj\Debug\netcoreapp3.1\Balanced.genruntimeconfig.cache
+C:\Users\v-ivyajanga\source\repos\Balanced\Balanced\obj\Debug\netcoreapp3.1\Balanced.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\bin\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.exe
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\bin\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.deps.json
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\bin\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\bin\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\bin\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.dll
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\bin\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.pdb
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\obj\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\obj\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\obj\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\obj\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\obj\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.dll
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\obj\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.pdb
+C:\Users\v-ivyajanga\source\repos\BinaryTreeIsBSTorNot\BinaryTreeIsBSTorNot\obj\Debug\netcoreapp3.1\BinaryTreeIsBSTorNot.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\bin\Debug\netcoreapp3.1\DeviationArray.exe
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\bin\Debug\netcoreapp3.1\DeviationArray.deps.json
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\bin\Debug\netcoreapp3.1\DeviationArray.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\bin\Debug\netcoreapp3.1\DeviationArray.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\bin\Debug\netcoreapp3.1\DeviationArray.dll
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\bin\Debug\netcoreapp3.1\DeviationArray.pdb
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\obj\Debug\netcoreapp3.1\DeviationArray.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\obj\Debug\netcoreapp3.1\DeviationArray.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\obj\Debug\netcoreapp3.1\DeviationArray.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\obj\Debug\netcoreapp3.1\DeviationArray.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\obj\Debug\netcoreapp3.1\DeviationArray.dll
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\obj\Debug\netcoreapp3.1\DeviationArray.pdb
+C:\Users\v-ivyajanga\source\repos\DeviationArray\DeviationArray\obj\Debug\netcoreapp3.1\DeviationArray.genruntimeconfig.cache

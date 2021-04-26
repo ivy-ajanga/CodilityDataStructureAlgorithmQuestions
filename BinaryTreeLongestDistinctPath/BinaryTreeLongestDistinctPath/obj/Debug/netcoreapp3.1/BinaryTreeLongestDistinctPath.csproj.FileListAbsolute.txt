@@ -1,0 +1,12 @@
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\bin\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.exe
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\bin\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.deps.json
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\bin\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\bin\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\bin\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.dll
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\bin\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.pdb
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\obj\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\obj\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\obj\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\obj\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.dll
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\obj\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.pdb
+C:\Users\v-ivyajanga\source\repos\BinaryTreeLongestDistinctPath\BinaryTreeLongestDistinctPath\obj\Debug\netcoreapp3.1\BinaryTreeLongestDistinctPath.genruntimeconfig.cache

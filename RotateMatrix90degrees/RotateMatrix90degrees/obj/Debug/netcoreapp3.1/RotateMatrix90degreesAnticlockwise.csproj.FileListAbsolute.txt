@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\bin\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.exe
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\bin\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.deps.json
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\bin\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\bin\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\bin\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.dll
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\bin\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.pdb
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\obj\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\obj\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\obj\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\obj\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.dll
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\obj\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.pdb
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\obj\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.genruntimeconfig.cache
+C:\Users\v-ivyajanga\source\repos\RotateMatrix90degrees\RotateMatrix90degrees\obj\Debug\netcoreapp3.1\RotateMatrix90degreesAnticlockwise.csprojAssemblyReference.cache

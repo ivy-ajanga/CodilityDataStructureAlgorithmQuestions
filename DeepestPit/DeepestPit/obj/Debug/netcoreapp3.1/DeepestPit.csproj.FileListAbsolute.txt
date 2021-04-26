@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\obj\Debug\netcoreapp3.1\DeepestPit.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\obj\Debug\netcoreapp3.1\DeepestPit.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\obj\Debug\netcoreapp3.1\DeepestPit.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\obj\Debug\netcoreapp3.1\DeepestPit.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\bin\Debug\netcoreapp3.1\DeepestPit.exe
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\bin\Debug\netcoreapp3.1\DeepestPit.deps.json
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\bin\Debug\netcoreapp3.1\DeepestPit.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\bin\Debug\netcoreapp3.1\DeepestPit.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\bin\Debug\netcoreapp3.1\DeepestPit.dll
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\bin\Debug\netcoreapp3.1\DeepestPit.pdb
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\obj\Debug\netcoreapp3.1\DeepestPit.dll
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\obj\Debug\netcoreapp3.1\DeepestPit.pdb
+C:\Users\v-ivyajanga\source\repos\DeepestPit\DeepestPit\obj\Debug\netcoreapp3.1\DeepestPit.genruntimeconfig.cache

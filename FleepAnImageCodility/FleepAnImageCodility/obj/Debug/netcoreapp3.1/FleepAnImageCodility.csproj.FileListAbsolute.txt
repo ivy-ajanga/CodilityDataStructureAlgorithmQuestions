@@ -1,0 +1,12 @@
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\bin\Debug\netcoreapp3.1\FleepAnImageCodility.exe
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\bin\Debug\netcoreapp3.1\FleepAnImageCodility.deps.json
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\bin\Debug\netcoreapp3.1\FleepAnImageCodility.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\bin\Debug\netcoreapp3.1\FleepAnImageCodility.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\bin\Debug\netcoreapp3.1\FleepAnImageCodility.dll
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\bin\Debug\netcoreapp3.1\FleepAnImageCodility.pdb
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\obj\Debug\netcoreapp3.1\FleepAnImageCodility.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\obj\Debug\netcoreapp3.1\FleepAnImageCodility.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\obj\Debug\netcoreapp3.1\FleepAnImageCodility.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\obj\Debug\netcoreapp3.1\FleepAnImageCodility.dll
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\obj\Debug\netcoreapp3.1\FleepAnImageCodility.pdb
+C:\Users\v-ivyajanga\source\repos\FleepAnImageCodility\FleepAnImageCodility\obj\Debug\netcoreapp3.1\FleepAnImageCodility.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\bin\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.exe
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\bin\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.deps.json
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\bin\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\bin\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\bin\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.dll
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\bin\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.pdb
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\obj\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\obj\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\obj\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\obj\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\obj\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.dll
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\obj\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.pdb
+C:\Users\v-ivyajanga\source\repos\DirectedGraphIsCycleCodility\DirectedGraphIsCycleCodility\obj\Debug\netcoreapp3.1\DirectedGraphIsCycleCodility.genruntimeconfig.cache

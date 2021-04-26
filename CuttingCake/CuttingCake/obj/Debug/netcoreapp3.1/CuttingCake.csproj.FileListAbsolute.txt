@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\bin\Debug\netcoreapp3.1\CuttingCake.exe
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\bin\Debug\netcoreapp3.1\CuttingCake.deps.json
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\bin\Debug\netcoreapp3.1\CuttingCake.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\bin\Debug\netcoreapp3.1\CuttingCake.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\bin\Debug\netcoreapp3.1\CuttingCake.dll
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\bin\Debug\netcoreapp3.1\CuttingCake.pdb
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\obj\Debug\netcoreapp3.1\CuttingCake.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\obj\Debug\netcoreapp3.1\CuttingCake.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\obj\Debug\netcoreapp3.1\CuttingCake.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\obj\Debug\netcoreapp3.1\CuttingCake.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\obj\Debug\netcoreapp3.1\CuttingCake.dll
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\obj\Debug\netcoreapp3.1\CuttingCake.pdb
+C:\Users\v-ivyajanga\source\repos\CuttingCake\CuttingCake\obj\Debug\netcoreapp3.1\CuttingCake.genruntimeconfig.cache

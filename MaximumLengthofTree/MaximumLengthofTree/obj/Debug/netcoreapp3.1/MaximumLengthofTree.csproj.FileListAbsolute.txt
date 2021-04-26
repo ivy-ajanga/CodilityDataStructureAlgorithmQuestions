@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\obj\Debug\netcoreapp3.1\MaximumLengthofTree.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\obj\Debug\netcoreapp3.1\MaximumLengthofTree.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\obj\Debug\netcoreapp3.1\MaximumLengthofTree.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\obj\Debug\netcoreapp3.1\MaximumLengthofTree.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\bin\Debug\netcoreapp3.1\MaximumLengthofTree.exe
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\bin\Debug\netcoreapp3.1\MaximumLengthofTree.deps.json
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\bin\Debug\netcoreapp3.1\MaximumLengthofTree.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\bin\Debug\netcoreapp3.1\MaximumLengthofTree.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\bin\Debug\netcoreapp3.1\MaximumLengthofTree.dll
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\bin\Debug\netcoreapp3.1\MaximumLengthofTree.pdb
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\obj\Debug\netcoreapp3.1\MaximumLengthofTree.dll
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\obj\Debug\netcoreapp3.1\MaximumLengthofTree.pdb
+C:\Users\v-ivyajanga\source\repos\MaximumLengthofTree\MaximumLengthofTree\obj\Debug\netcoreapp3.1\MaximumLengthofTree.genruntimeconfig.cache

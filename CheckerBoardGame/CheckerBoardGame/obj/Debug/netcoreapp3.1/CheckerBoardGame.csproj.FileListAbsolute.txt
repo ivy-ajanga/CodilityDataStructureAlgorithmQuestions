@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\bin\Debug\netcoreapp3.1\CheckerBoardGame.exe
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\bin\Debug\netcoreapp3.1\CheckerBoardGame.deps.json
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\bin\Debug\netcoreapp3.1\CheckerBoardGame.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\bin\Debug\netcoreapp3.1\CheckerBoardGame.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\bin\Debug\netcoreapp3.1\CheckerBoardGame.dll
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\bin\Debug\netcoreapp3.1\CheckerBoardGame.pdb
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\obj\Debug\netcoreapp3.1\CheckerBoardGame.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\obj\Debug\netcoreapp3.1\CheckerBoardGame.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\obj\Debug\netcoreapp3.1\CheckerBoardGame.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\obj\Debug\netcoreapp3.1\CheckerBoardGame.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\obj\Debug\netcoreapp3.1\CheckerBoardGame.dll
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\obj\Debug\netcoreapp3.1\CheckerBoardGame.pdb
+C:\Users\v-ivyajanga\source\repos\CheckerBoardGame\CheckerBoardGame\obj\Debug\netcoreapp3.1\CheckerBoardGame.genruntimeconfig.cache

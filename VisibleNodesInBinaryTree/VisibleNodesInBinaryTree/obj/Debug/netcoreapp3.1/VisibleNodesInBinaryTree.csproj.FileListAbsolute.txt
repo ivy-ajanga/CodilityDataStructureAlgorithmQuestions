@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\bin\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.exe
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\bin\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.deps.json
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\bin\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\bin\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\bin\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.dll
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\bin\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.pdb
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\obj\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\obj\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\obj\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\obj\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\obj\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.dll
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\obj\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.pdb
+C:\Users\v-ivyajanga\source\repos\VisibleNodesInBinaryTree\VisibleNodesInBinaryTree\obj\Debug\netcoreapp3.1\VisibleNodesInBinaryTree.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\bin\Debug\netcoreapp3.1\ConnectedCity.exe
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\bin\Debug\netcoreapp3.1\ConnectedCity.deps.json
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\bin\Debug\netcoreapp3.1\ConnectedCity.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\bin\Debug\netcoreapp3.1\ConnectedCity.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\bin\Debug\netcoreapp3.1\ConnectedCity.dll
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\bin\Debug\netcoreapp3.1\ConnectedCity.pdb
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\obj\Debug\netcoreapp3.1\ConnectedCity.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\obj\Debug\netcoreapp3.1\ConnectedCity.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\obj\Debug\netcoreapp3.1\ConnectedCity.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\obj\Debug\netcoreapp3.1\ConnectedCity.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\obj\Debug\netcoreapp3.1\ConnectedCity.dll
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\obj\Debug\netcoreapp3.1\ConnectedCity.pdb
+C:\Users\v-ivyajanga\source\repos\ConnectedCity\ConnectedCity\obj\Debug\netcoreapp3.1\ConnectedCity.genruntimeconfig.cache

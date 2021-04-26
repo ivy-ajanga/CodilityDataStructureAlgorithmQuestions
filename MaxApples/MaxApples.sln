@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxApples", "MaxApples\MaxApples.csproj", "{06D2C573-58FF-4CB1-9071-873722993E6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06D2C573-58FF-4CB1-9071-873722993E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D2C573-58FF-4CB1-9071-873722993E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D2C573-58FF-4CB1-9071-873722993E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D2C573-58FF-4CB1-9071-873722993E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A405C55C-8244-42D9-B499-1525B0F0067A}
+	EndGlobalSection
+EndGlobal

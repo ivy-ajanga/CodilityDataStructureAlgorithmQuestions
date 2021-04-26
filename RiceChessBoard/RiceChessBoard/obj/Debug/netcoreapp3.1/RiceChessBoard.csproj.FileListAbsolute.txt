@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\obj\Debug\netcoreapp3.1\RiceChessBoard.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\obj\Debug\netcoreapp3.1\RiceChessBoard.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\obj\Debug\netcoreapp3.1\RiceChessBoard.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\obj\Debug\netcoreapp3.1\RiceChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\bin\Debug\netcoreapp3.1\RiceChessBoard.exe
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\bin\Debug\netcoreapp3.1\RiceChessBoard.deps.json
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\bin\Debug\netcoreapp3.1\RiceChessBoard.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\bin\Debug\netcoreapp3.1\RiceChessBoard.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\bin\Debug\netcoreapp3.1\RiceChessBoard.dll
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\bin\Debug\netcoreapp3.1\RiceChessBoard.pdb
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\obj\Debug\netcoreapp3.1\RiceChessBoard.dll
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\obj\Debug\netcoreapp3.1\RiceChessBoard.pdb
+C:\Users\v-ivyajanga\source\repos\RiceChessBoard\RiceChessBoard\obj\Debug\netcoreapp3.1\RiceChessBoard.genruntimeconfig.cache

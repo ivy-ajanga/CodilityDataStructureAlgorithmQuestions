@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\bin\Debug\netcoreapp3.1\SwitchingArray.exe
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\bin\Debug\netcoreapp3.1\SwitchingArray.deps.json
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\bin\Debug\netcoreapp3.1\SwitchingArray.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\bin\Debug\netcoreapp3.1\SwitchingArray.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\bin\Debug\netcoreapp3.1\SwitchingArray.dll
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\bin\Debug\netcoreapp3.1\SwitchingArray.pdb
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\obj\Debug\netcoreapp3.1\SwitchingArray.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\obj\Debug\netcoreapp3.1\SwitchingArray.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\obj\Debug\netcoreapp3.1\SwitchingArray.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\obj\Debug\netcoreapp3.1\SwitchingArray.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\obj\Debug\netcoreapp3.1\SwitchingArray.dll
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\obj\Debug\netcoreapp3.1\SwitchingArray.pdb
+C:\Users\v-ivyajanga\source\repos\Screening Questions\SwitchingArray\SwitchingArray\obj\Debug\netcoreapp3.1\SwitchingArray.genruntimeconfig.cache

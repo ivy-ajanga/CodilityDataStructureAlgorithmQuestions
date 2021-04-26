@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\bin\Debug\netcoreapp3.1\OccurenceXpositioninA.exe
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\bin\Debug\netcoreapp3.1\OccurenceXpositioninA.deps.json
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\bin\Debug\netcoreapp3.1\OccurenceXpositioninA.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\bin\Debug\netcoreapp3.1\OccurenceXpositioninA.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\bin\Debug\netcoreapp3.1\OccurenceXpositioninA.dll
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\bin\Debug\netcoreapp3.1\OccurenceXpositioninA.pdb
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\obj\Debug\netcoreapp3.1\OccurenceXpositioninA.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\obj\Debug\netcoreapp3.1\OccurenceXpositioninA.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\obj\Debug\netcoreapp3.1\OccurenceXpositioninA.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\obj\Debug\netcoreapp3.1\OccurenceXpositioninA.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\obj\Debug\netcoreapp3.1\OccurenceXpositioninA.dll
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\obj\Debug\netcoreapp3.1\OccurenceXpositioninA.pdb
+C:\Users\v-ivyajanga\source\repos\OccurenceXpositioninA\OccurenceXpositioninA\obj\Debug\netcoreapp3.1\OccurenceXpositioninA.genruntimeconfig.cache

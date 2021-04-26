@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\bin\Debug\netcoreapp3.1\MaxApples.exe
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\bin\Debug\netcoreapp3.1\MaxApples.deps.json
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\bin\Debug\netcoreapp3.1\MaxApples.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\bin\Debug\netcoreapp3.1\MaxApples.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\bin\Debug\netcoreapp3.1\MaxApples.dll
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\bin\Debug\netcoreapp3.1\MaxApples.pdb
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\obj\Debug\netcoreapp3.1\MaxApples.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\obj\Debug\netcoreapp3.1\MaxApples.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\obj\Debug\netcoreapp3.1\MaxApples.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\obj\Debug\netcoreapp3.1\MaxApples.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\obj\Debug\netcoreapp3.1\MaxApples.dll
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\obj\Debug\netcoreapp3.1\MaxApples.pdb
+C:\Users\v-ivyajanga\source\repos\MaxApples\MaxApples\obj\Debug\netcoreapp3.1\MaxApples.genruntimeconfig.cache

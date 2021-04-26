@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\bin\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.exe
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\bin\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.deps.json
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\bin\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\bin\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\bin\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.dll
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\bin\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.pdb
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\obj\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\obj\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\obj\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\obj\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\obj\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.dll
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\obj\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.pdb
+C:\Users\v-ivyajanga\source\repos\ArrayClosestAssendorEfficient\ArrayClosestAssendorEfficient\obj\Debug\netcoreapp3.1\ArrayClosestAssendorEfficient.genruntimeconfig.cache

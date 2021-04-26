@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\bin\Debug\netcoreapp3.1\CannonBallsCodility.exe
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\bin\Debug\netcoreapp3.1\CannonBallsCodility.deps.json
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\bin\Debug\netcoreapp3.1\CannonBallsCodility.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\bin\Debug\netcoreapp3.1\CannonBallsCodility.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\bin\Debug\netcoreapp3.1\CannonBallsCodility.dll
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\bin\Debug\netcoreapp3.1\CannonBallsCodility.pdb
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\obj\Debug\netcoreapp3.1\CannonBallsCodility.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\obj\Debug\netcoreapp3.1\CannonBallsCodility.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\obj\Debug\netcoreapp3.1\CannonBallsCodility.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\obj\Debug\netcoreapp3.1\CannonBallsCodility.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\obj\Debug\netcoreapp3.1\CannonBallsCodility.dll
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\obj\Debug\netcoreapp3.1\CannonBallsCodility.pdb
+C:\Users\v-ivyajanga\source\repos\CannonBallsCodility\CannonBallsCodility\obj\Debug\netcoreapp3.1\CannonBallsCodility.genruntimeconfig.cache

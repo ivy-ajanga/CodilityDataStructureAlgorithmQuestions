@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\bin\Debug\netcoreapp3.1\FindMissingAndRepeating.exe
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\bin\Debug\netcoreapp3.1\FindMissingAndRepeating.deps.json
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\bin\Debug\netcoreapp3.1\FindMissingAndRepeating.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\bin\Debug\netcoreapp3.1\FindMissingAndRepeating.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\bin\Debug\netcoreapp3.1\FindMissingAndRepeating.dll
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\bin\Debug\netcoreapp3.1\FindMissingAndRepeating.pdb
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\obj\Debug\netcoreapp3.1\FindMissingAndRepeating.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\obj\Debug\netcoreapp3.1\FindMissingAndRepeating.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\obj\Debug\netcoreapp3.1\FindMissingAndRepeating.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\obj\Debug\netcoreapp3.1\FindMissingAndRepeating.dll
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\obj\Debug\netcoreapp3.1\FindMissingAndRepeating.pdb
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\obj\Debug\netcoreapp3.1\FindMissingAndRepeating.genruntimeconfig.cache
+C:\Users\v-ivyajanga\source\repos\FindMissingAndRepeating\FindMissingAndRepeating\obj\Debug\netcoreapp3.1\FindMissingAndRepeating.csprojAssemblyReference.cache

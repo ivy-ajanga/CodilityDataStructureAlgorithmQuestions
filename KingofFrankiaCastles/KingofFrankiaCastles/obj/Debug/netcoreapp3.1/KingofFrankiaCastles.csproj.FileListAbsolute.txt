@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\bin\Debug\netcoreapp3.1\KingofFrankiaCastles.exe
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\bin\Debug\netcoreapp3.1\KingofFrankiaCastles.deps.json
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\bin\Debug\netcoreapp3.1\KingofFrankiaCastles.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\bin\Debug\netcoreapp3.1\KingofFrankiaCastles.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\bin\Debug\netcoreapp3.1\KingofFrankiaCastles.dll
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\bin\Debug\netcoreapp3.1\KingofFrankiaCastles.pdb
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\obj\Debug\netcoreapp3.1\KingofFrankiaCastles.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\obj\Debug\netcoreapp3.1\KingofFrankiaCastles.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\obj\Debug\netcoreapp3.1\KingofFrankiaCastles.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\obj\Debug\netcoreapp3.1\KingofFrankiaCastles.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\obj\Debug\netcoreapp3.1\KingofFrankiaCastles.dll
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\obj\Debug\netcoreapp3.1\KingofFrankiaCastles.pdb
+C:\Users\v-ivyajanga\source\repos\KingofFrankiaCastles\KingofFrankiaCastles\obj\Debug\netcoreapp3.1\KingofFrankiaCastles.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\bin\Debug\netcoreapp3.1\SleepingBreakCodility.exe
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\bin\Debug\netcoreapp3.1\SleepingBreakCodility.deps.json
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\bin\Debug\netcoreapp3.1\SleepingBreakCodility.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\bin\Debug\netcoreapp3.1\SleepingBreakCodility.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\bin\Debug\netcoreapp3.1\SleepingBreakCodility.dll
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\bin\Debug\netcoreapp3.1\SleepingBreakCodility.pdb
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\obj\Debug\netcoreapp3.1\SleepingBreakCodility.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\obj\Debug\netcoreapp3.1\SleepingBreakCodility.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\obj\Debug\netcoreapp3.1\SleepingBreakCodility.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\obj\Debug\netcoreapp3.1\SleepingBreakCodility.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\obj\Debug\netcoreapp3.1\SleepingBreakCodility.dll
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\obj\Debug\netcoreapp3.1\SleepingBreakCodility.pdb
+C:\Users\v-ivyajanga\source\repos\SleepingBreakCodility\SleepingBreakCodility\obj\Debug\netcoreapp3.1\SleepingBreakCodility.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PopulatingNextRightPointers/1.0.0": {
+        "runtime": {
+          "PopulatingNextRightPointers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PopulatingNextRightPointers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

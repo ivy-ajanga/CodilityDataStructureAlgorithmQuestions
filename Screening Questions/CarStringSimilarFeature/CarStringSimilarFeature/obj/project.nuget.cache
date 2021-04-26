@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RAk72wRoI3F9a9BMsTsyMIDoDmYMW3p/etA9f3wbIYOPcaf88nZg4tMK5LER3oJ3vRN0Q+Z+boKnQOxo7z8L0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-ivyajanga\\source\\repos\\CarStringSimilarFeature\\CarStringSimilarFeature\\CarStringSimilarFeature.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-ivyajanga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\v-ivyajanga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

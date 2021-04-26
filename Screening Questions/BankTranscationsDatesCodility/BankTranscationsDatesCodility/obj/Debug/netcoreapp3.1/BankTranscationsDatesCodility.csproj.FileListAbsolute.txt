@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\bin\Debug\netcoreapp3.1\BankTranscationsDatesCodility.exe
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\bin\Debug\netcoreapp3.1\BankTranscationsDatesCodility.deps.json
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\bin\Debug\netcoreapp3.1\BankTranscationsDatesCodility.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\bin\Debug\netcoreapp3.1\BankTranscationsDatesCodility.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\bin\Debug\netcoreapp3.1\BankTranscationsDatesCodility.dll
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\bin\Debug\netcoreapp3.1\BankTranscationsDatesCodility.pdb
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\obj\Debug\netcoreapp3.1\BankTranscationsDatesCodility.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\obj\Debug\netcoreapp3.1\BankTranscationsDatesCodility.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\obj\Debug\netcoreapp3.1\BankTranscationsDatesCodility.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\obj\Debug\netcoreapp3.1\BankTranscationsDatesCodility.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\obj\Debug\netcoreapp3.1\BankTranscationsDatesCodility.dll
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\obj\Debug\netcoreapp3.1\BankTranscationsDatesCodility.pdb
+C:\Users\v-ivyajanga\source\repos\BankTranscationsDatesCodility\BankTranscationsDatesCodility\obj\Debug\netcoreapp3.1\BankTranscationsDatesCodility.genruntimeconfig.cache

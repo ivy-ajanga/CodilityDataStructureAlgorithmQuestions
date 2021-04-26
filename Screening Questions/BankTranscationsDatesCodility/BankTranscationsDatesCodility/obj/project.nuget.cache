@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DuqN+n08HPXDV6719PPIYdrPvykf6Z7FQNOumyqduGfrNMLV3qgA/hS75XvNs7vU0XNy5nXsd0/FI3gIz6wT7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-ivyajanga\\source\\repos\\BankTranscationsDatesCodility\\BankTranscationsDatesCodility\\BankTranscationsDatesCodility.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-ivyajanga\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\v-ivyajanga\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

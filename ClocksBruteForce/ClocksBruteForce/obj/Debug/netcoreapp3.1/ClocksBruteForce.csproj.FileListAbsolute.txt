@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\bin\Debug\netcoreapp3.1\ClocksBruteForce.exe
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\bin\Debug\netcoreapp3.1\ClocksBruteForce.deps.json
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\bin\Debug\netcoreapp3.1\ClocksBruteForce.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\bin\Debug\netcoreapp3.1\ClocksBruteForce.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\bin\Debug\netcoreapp3.1\ClocksBruteForce.dll
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\bin\Debug\netcoreapp3.1\ClocksBruteForce.pdb
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\obj\Debug\netcoreapp3.1\ClocksBruteForce.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\obj\Debug\netcoreapp3.1\ClocksBruteForce.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\obj\Debug\netcoreapp3.1\ClocksBruteForce.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\obj\Debug\netcoreapp3.1\ClocksBruteForce.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\obj\Debug\netcoreapp3.1\ClocksBruteForce.dll
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\obj\Debug\netcoreapp3.1\ClocksBruteForce.pdb
+C:\Users\v-ivyajanga\source\repos\ClocksBruteForce\ClocksBruteForce\obj\Debug\netcoreapp3.1\ClocksBruteForce.genruntimeconfig.cache

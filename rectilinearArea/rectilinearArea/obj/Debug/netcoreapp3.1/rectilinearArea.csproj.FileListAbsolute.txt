@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\bin\Debug\netcoreapp3.1\rectilinearArea.exe
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\bin\Debug\netcoreapp3.1\rectilinearArea.deps.json
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\bin\Debug\netcoreapp3.1\rectilinearArea.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\bin\Debug\netcoreapp3.1\rectilinearArea.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\bin\Debug\netcoreapp3.1\rectilinearArea.dll
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\bin\Debug\netcoreapp3.1\rectilinearArea.pdb
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\obj\Debug\netcoreapp3.1\rectilinearArea.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\obj\Debug\netcoreapp3.1\rectilinearArea.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\obj\Debug\netcoreapp3.1\rectilinearArea.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\obj\Debug\netcoreapp3.1\rectilinearArea.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\obj\Debug\netcoreapp3.1\rectilinearArea.dll
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\obj\Debug\netcoreapp3.1\rectilinearArea.pdb
+C:\Users\v-ivyajanga\source\repos\rectilinearArea\rectilinearArea\obj\Debug\netcoreapp3.1\rectilinearArea.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\bin\Debug\netcoreapp3.1\NonintersectingSegments.exe
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\bin\Debug\netcoreapp3.1\NonintersectingSegments.deps.json
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\bin\Debug\netcoreapp3.1\NonintersectingSegments.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\bin\Debug\netcoreapp3.1\NonintersectingSegments.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\bin\Debug\netcoreapp3.1\NonintersectingSegments.dll
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\bin\Debug\netcoreapp3.1\NonintersectingSegments.pdb
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\obj\Debug\netcoreapp3.1\NonintersectingSegments.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\obj\Debug\netcoreapp3.1\NonintersectingSegments.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\obj\Debug\netcoreapp3.1\NonintersectingSegments.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\obj\Debug\netcoreapp3.1\NonintersectingSegments.dll
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\obj\Debug\netcoreapp3.1\NonintersectingSegments.pdb
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\obj\Debug\netcoreapp3.1\NonintersectingSegments.genruntimeconfig.cache
+C:\Users\v-ivyajanga\source\repos\NonintersectingSegments\NonintersectingSegments\obj\Debug\netcoreapp3.1\NonintersectingSegments.csprojAssemblyReference.cache

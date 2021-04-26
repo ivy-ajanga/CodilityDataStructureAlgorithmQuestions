@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\bin\Debug\netcoreapp3.1\PeakFlags.exe
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\bin\Debug\netcoreapp3.1\PeakFlags.deps.json
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\bin\Debug\netcoreapp3.1\PeakFlags.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\bin\Debug\netcoreapp3.1\PeakFlags.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\bin\Debug\netcoreapp3.1\PeakFlags.dll
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\bin\Debug\netcoreapp3.1\PeakFlags.pdb
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\obj\Debug\netcoreapp3.1\PeakFlags.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\obj\Debug\netcoreapp3.1\PeakFlags.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\obj\Debug\netcoreapp3.1\PeakFlags.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\obj\Debug\netcoreapp3.1\PeakFlags.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\obj\Debug\netcoreapp3.1\PeakFlags.dll
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\obj\Debug\netcoreapp3.1\PeakFlags.pdb
+C:\Users\v-ivyajanga\source\repos\PeakFlags\PeakFlags\obj\Debug\netcoreapp3.1\PeakFlags.genruntimeconfig.cache

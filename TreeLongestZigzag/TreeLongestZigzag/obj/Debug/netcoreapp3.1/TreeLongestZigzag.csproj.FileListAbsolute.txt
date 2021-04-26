@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\bin\Debug\netcoreapp3.1\TreeLongestZigzag.exe
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\bin\Debug\netcoreapp3.1\TreeLongestZigzag.deps.json
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\bin\Debug\netcoreapp3.1\TreeLongestZigzag.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\bin\Debug\netcoreapp3.1\TreeLongestZigzag.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\bin\Debug\netcoreapp3.1\TreeLongestZigzag.dll
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\bin\Debug\netcoreapp3.1\TreeLongestZigzag.pdb
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\obj\Debug\netcoreapp3.1\TreeLongestZigzag.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\obj\Debug\netcoreapp3.1\TreeLongestZigzag.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\obj\Debug\netcoreapp3.1\TreeLongestZigzag.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\obj\Debug\netcoreapp3.1\TreeLongestZigzag.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\obj\Debug\netcoreapp3.1\TreeLongestZigzag.dll
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\obj\Debug\netcoreapp3.1\TreeLongestZigzag.pdb
+C:\Users\v-ivyajanga\source\repos\TreeLongestZigzag\TreeLongestZigzag\obj\Debug\netcoreapp3.1\TreeLongestZigzag.genruntimeconfig.cache

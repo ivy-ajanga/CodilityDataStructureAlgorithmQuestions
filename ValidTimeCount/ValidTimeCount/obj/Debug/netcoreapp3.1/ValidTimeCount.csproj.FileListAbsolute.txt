@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\bin\Debug\netcoreapp3.1\ValidTimeCount.exe
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\bin\Debug\netcoreapp3.1\ValidTimeCount.deps.json
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\bin\Debug\netcoreapp3.1\ValidTimeCount.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\bin\Debug\netcoreapp3.1\ValidTimeCount.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\bin\Debug\netcoreapp3.1\ValidTimeCount.dll
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\bin\Debug\netcoreapp3.1\ValidTimeCount.pdb
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\obj\Debug\netcoreapp3.1\ValidTimeCount.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\obj\Debug\netcoreapp3.1\ValidTimeCount.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\obj\Debug\netcoreapp3.1\ValidTimeCount.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\obj\Debug\netcoreapp3.1\ValidTimeCount.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\obj\Debug\netcoreapp3.1\ValidTimeCount.dll
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\obj\Debug\netcoreapp3.1\ValidTimeCount.pdb
+C:\Users\v-ivyajanga\source\repos\ValidTimeCount\ValidTimeCount\obj\Debug\netcoreapp3.1\ValidTimeCount.genruntimeconfig.cache

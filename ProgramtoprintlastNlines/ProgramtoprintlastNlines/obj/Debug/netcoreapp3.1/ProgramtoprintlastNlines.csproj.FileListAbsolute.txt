@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\bin\Debug\netcoreapp3.1\ProgramtoprintlastNlines.exe
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\bin\Debug\netcoreapp3.1\ProgramtoprintlastNlines.deps.json
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\bin\Debug\netcoreapp3.1\ProgramtoprintlastNlines.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\bin\Debug\netcoreapp3.1\ProgramtoprintlastNlines.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\bin\Debug\netcoreapp3.1\ProgramtoprintlastNlines.dll
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\bin\Debug\netcoreapp3.1\ProgramtoprintlastNlines.pdb
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\obj\Debug\netcoreapp3.1\ProgramtoprintlastNlines.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\obj\Debug\netcoreapp3.1\ProgramtoprintlastNlines.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\obj\Debug\netcoreapp3.1\ProgramtoprintlastNlines.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\obj\Debug\netcoreapp3.1\ProgramtoprintlastNlines.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\obj\Debug\netcoreapp3.1\ProgramtoprintlastNlines.dll
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\obj\Debug\netcoreapp3.1\ProgramtoprintlastNlines.pdb
+C:\Users\v-ivyajanga\source\repos\ProgramtoprintlastNlines\ProgramtoprintlastNlines\obj\Debug\netcoreapp3.1\ProgramtoprintlastNlines.genruntimeconfig.cache

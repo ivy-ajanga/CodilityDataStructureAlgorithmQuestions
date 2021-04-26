@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\bin\Debug\netcoreapp3.1\ConvertToBinary.exe
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\bin\Debug\netcoreapp3.1\ConvertToBinary.deps.json
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\bin\Debug\netcoreapp3.1\ConvertToBinary.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\bin\Debug\netcoreapp3.1\ConvertToBinary.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\bin\Debug\netcoreapp3.1\ConvertToBinary.dll
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\bin\Debug\netcoreapp3.1\ConvertToBinary.pdb
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\obj\Debug\netcoreapp3.1\ConvertToBinary.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\obj\Debug\netcoreapp3.1\ConvertToBinary.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\obj\Debug\netcoreapp3.1\ConvertToBinary.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\obj\Debug\netcoreapp3.1\ConvertToBinary.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\obj\Debug\netcoreapp3.1\ConvertToBinary.dll
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\obj\Debug\netcoreapp3.1\ConvertToBinary.pdb
+C:\Users\v-ivyajanga\source\repos\ConvertToBinary\ConvertToBinary\obj\Debug\netcoreapp3.1\ConvertToBinary.genruntimeconfig.cache

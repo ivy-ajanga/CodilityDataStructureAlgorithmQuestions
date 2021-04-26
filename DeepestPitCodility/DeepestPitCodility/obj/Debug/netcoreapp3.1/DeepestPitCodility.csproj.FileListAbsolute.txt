@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\bin\Debug\netcoreapp3.1\DeepestPitCodility.exe
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\bin\Debug\netcoreapp3.1\DeepestPitCodility.deps.json
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\bin\Debug\netcoreapp3.1\DeepestPitCodility.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\bin\Debug\netcoreapp3.1\DeepestPitCodility.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\bin\Debug\netcoreapp3.1\DeepestPitCodility.dll
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\bin\Debug\netcoreapp3.1\DeepestPitCodility.pdb
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\obj\Debug\netcoreapp3.1\DeepestPitCodility.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\obj\Debug\netcoreapp3.1\DeepestPitCodility.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\obj\Debug\netcoreapp3.1\DeepestPitCodility.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\obj\Debug\netcoreapp3.1\DeepestPitCodility.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\obj\Debug\netcoreapp3.1\DeepestPitCodility.dll
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\obj\Debug\netcoreapp3.1\DeepestPitCodility.pdb
+C:\Users\v-ivyajanga\source\repos\DeepestPitCodility\DeepestPitCodility\obj\Debug\netcoreapp3.1\DeepestPitCodility.genruntimeconfig.cache

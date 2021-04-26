@@ -1,0 +1,13 @@
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\bin\Debug\netcoreapp3.1\EquilazationSteps.exe
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\bin\Debug\netcoreapp3.1\EquilazationSteps.deps.json
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\bin\Debug\netcoreapp3.1\EquilazationSteps.runtimeconfig.json
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\bin\Debug\netcoreapp3.1\EquilazationSteps.runtimeconfig.dev.json
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\bin\Debug\netcoreapp3.1\EquilazationSteps.dll
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\bin\Debug\netcoreapp3.1\EquilazationSteps.pdb
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\obj\Debug\netcoreapp3.1\EquilazationSteps.csprojAssemblyReference.cache
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\obj\Debug\netcoreapp3.1\EquilazationSteps.AssemblyInfoInputs.cache
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\obj\Debug\netcoreapp3.1\EquilazationSteps.AssemblyInfo.cs
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\obj\Debug\netcoreapp3.1\EquilazationSteps.csproj.CoreCompileInputs.cache
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\obj\Debug\netcoreapp3.1\EquilazationSteps.dll
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\obj\Debug\netcoreapp3.1\EquilazationSteps.pdb
+C:\Users\v-ivyajanga\source\repos\EquilazationSteps\EquilazationSteps\obj\Debug\netcoreapp3.1\EquilazationSteps.genruntimeconfig.cache
